@@ -19,7 +19,7 @@ class Class {
         c=45;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] sadik) {
         Class c1 = new Class();
         Class c2 = new Class();
         c1.fun2();
