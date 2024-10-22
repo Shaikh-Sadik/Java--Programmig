@@ -5,7 +5,9 @@ public class area {
         int area;
 
         area = length * width;
-        System.out.println("The Area is : " + area);
+        System.out.println("The length is : "+length);
+        System.out.println("The Width is : "+width);
+        System.out.println("The Area of Rectangle : " + area);
     }
 
     public static void main(String[] args) {
