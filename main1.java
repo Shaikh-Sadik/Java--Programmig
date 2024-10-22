@@ -1,4 +1,4 @@
-public class main {
+public class main1 {
 
     void display(){
 
@@ -10,7 +10,7 @@ public class main {
 
     public static void main (String [] args)
     {
-        main m1=new main();
+        main1 m1=new main1();
         m1.display();
     }
 }
