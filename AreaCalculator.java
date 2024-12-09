@@ -55,6 +55,7 @@ public class AreaCalculator {
 
         int choise;
         Scanner scanner = new Scanner(System.in);
+        System.out.println("");
         System.out.println("Enter The Following Option");
         System.out.println("Area of Circle :- 1");
         System.out.println("Area of Rectangle :- 2");
